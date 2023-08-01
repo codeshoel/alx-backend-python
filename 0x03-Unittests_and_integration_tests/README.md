@@ -1,12 +1,12 @@
 # Unittests and Integration Tests
 
-This project contains tasks for learning to write unittests and integration tests in Python 3.
+This project contains tasks for write unittests and integration tests in Python 3.
 
 ## Required Modules
 
 + parameterized.
 
-## Tasks To Complete
+## Tasks to be done
 
 + [x] 0. **Parameterize a unit test**<br/>[test_utils.py](test_utils.py) contains a python module that meets the following requirements:
   + Familiarize yourself with the `utils.access_nested_map` function and understand its purpose. Play with it in the Python console to make sure you understand.
